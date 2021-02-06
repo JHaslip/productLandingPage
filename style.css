@@ -33,6 +33,10 @@ nav {
   flex: 2;
 }
 
+.nav-bar {
+
+}
+
 .nav-links {
   justify-content: space-around;
 }
