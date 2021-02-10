@@ -33,12 +33,12 @@ nav {
   flex: 2;
 }
 
-.nav-bar {
-
+.nav-link {
+  justify-content: space-around;
 }
 
 .nav-links {
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .cart {
