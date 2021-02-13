@@ -9,3 +9,5 @@ To be a landing page, written from scratch in HTML5, and CSS3. No use of ***fram
   return Arg + 2;
 }`
 
+Here's my sentence with a footnote. [^1]
+
