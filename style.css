@@ -7,6 +7,7 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+
 button {
   font-family: "Poppins", sans-serif;
 }
@@ -27,15 +28,18 @@ header {
 nav {
   flex: 2;
 }
+
 .nav-links {
   justify-content: space-around;
   list-style: none;
 }
+
 .nav-link {
   color: #5f5f79;
   font-size: 18px;
   text-decoration: none;
 }
+
 .cart {
   flex: 1;
   justify-content: flex-end;
@@ -48,9 +52,11 @@ nav {
   min-height: 80vh;
   align-items: center;
 }
+
 .introduction {
   flex: 1;
 }
+
 .intro-text h1 {
   font-size: 44px;
   font-weight: 500;
@@ -74,6 +80,7 @@ nav {
 .cta {
   padding: 50px 0px 0px 0px;
 }
+
 .cta-select {
   border: 2px solid #c36cbb;
   background: transparent;
@@ -83,6 +90,7 @@ nav {
   cursor: pointer;
   font-size: 16px;
 }
+
 .cta-add {
   background: #c36cbb;
   width: 150px;
@@ -114,6 +122,7 @@ nav {
   opacity: 0.5;
   height: 80%;
 }
+
 .medium-circle {
   position: absolute;
   top: 30%;
@@ -122,6 +131,7 @@ nav {
   height: 60%;
   opacity: 0.4;
 }
+
 .small-circle {
   position: absolute;
   bottom: 0%;
@@ -156,12 +166,15 @@ nav {
     margin-top: 5vh;
     text-align: center;
   }
+
   .intro-text h1 {
     font-size: 30px;
   }
+
   .intro-text p {
     font-size: 18px;
   }
+
   .cta {
     padding: 10px 0px 0px 0px;
   }
@@ -178,5 +191,8 @@ nav {
   .medium-circle,
   .big-circle {
     opacity: 0.2;
+  }
+
+  @media (prefers-color-scheme: dark) {
   }
 }
