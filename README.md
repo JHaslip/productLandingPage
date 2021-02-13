@@ -9,5 +9,5 @@ To be a landing page, written from scratch in HTML5, and CSS3. No use of ***fram
   return Arg + 2;
 }`
 
-[^1]: This is the footnote.
+*This is the footnote*.
 
