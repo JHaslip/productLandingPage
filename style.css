@@ -19,19 +19,11 @@ header {
   align-items: center;
 }
 
-.logo-container,
 .nav-links,
 .cart {
   display: flex;
 }
 
-.logo-container {
-  flex: 1;
-}
-.logo {
-  font-weight: 400;
-  margin: 5px;
-}
 nav {
   flex: 2;
 }
