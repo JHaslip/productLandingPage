@@ -178,15 +178,18 @@ nav {
   .cta {
     padding: 10px 0px 0px 0px;
   }
+
   .laptop-select {
     bottom: 5%;
     right: 50%;
     width: 50%;
     transform: translate(50%, 5%);
   }
+
   .cover img {
     height: 80%;
   }
+
   .small-circle,
   .medium-circle,
   .big-circle {
