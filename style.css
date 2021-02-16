@@ -200,7 +200,7 @@ nav {
   }
 
 
- @media screen and (max-width: 768px) {
+ @media screen and (min-width: 400px) {
   .presentation {
     flex-direction: column;
   }
