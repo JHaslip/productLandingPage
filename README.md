@@ -1,4 +1,5 @@
-# Product Landing Page
+## Vanilla project landing page.
+
 ---
 
 ### Project # 3
