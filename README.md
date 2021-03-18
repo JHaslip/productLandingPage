@@ -7,5 +7,5 @@
 To be a landing page, written from scratch in HTML5, and CSS3. No use of ***frameworks***, or ***libraries***.
 
 
-*This is the footnote*.
+*This is the footnote*
 
