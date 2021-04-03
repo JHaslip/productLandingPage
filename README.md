@@ -1,4 +1,4 @@
-## Vanilla project landing page.
+## Vanilla project landing page
 
 ---
 
